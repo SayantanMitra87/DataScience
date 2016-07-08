@@ -1,6 +1,13 @@
 # DataScience
 Best Data Science Tutorials and Top Data Scientists to Follow
 
+### Table of contents
+
+* [Introduction](#Introduction)
+* [Data Science Tutorials on GitHub](#Data-Science-Tutorials-on-GitHub)
+* [Top 30 Data Scientists to Follow on GitHub](#Top-30-Data-Scientists-to-Follow-on-GitHub)
+* [End Notes](#End-Notes)
+
 ## Introduction
 
 Twitter started the trend of ‘People to Follow’. This later got replicated by other platforms such as Facebook, Linkedin, Quora and GitHub. This cool feature lets you connect with the rockstars of various domains and get an access to what is going on their end without bothering them much. For the influencers, this has become an effective way to communicate with their followers.
