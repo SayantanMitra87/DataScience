@@ -1,7 +1,7 @@
 # DataScience
 Best Data Science Tutorials and Top Data Scientists to Follow
 
-Introduction
+## Introduction
 
 Twitter started the trend of ‘People to Follow’. This later got replicated by other platforms such as Facebook, Linkedin, Quora and GitHub. This cool feature lets you connect with the rockstars of various domains and get an access to what is going on their end without bothering them much. For the influencers, this has become an effective way to communicate with their followers.
 
@@ -22,7 +22,7 @@ github_logo
 
  
 
-What is GitHub?
+### What is GitHub?
 
 You can best understand GitHub as a social network for coders across the globe. Coders across the world can share their codes and work in collaborative manner using GitHub. GitHub started in 2008 and is a web based platform which provides online project hosting using Git.
 
@@ -32,7 +32,7 @@ To be honest, it is difficult to imagine the programming world without Git today
 
  
 
-4 Amazing Facts About GitHub
+### 4 Amazing Facts About GitHub
 
 GitHub Inc. was originally known as Logical Awesome
 Github reached to 1 million repositories in 2010, 2 million in 2011 and 10 million repositories in 2013. As of 2015, it has over 21 million repositories and 9 million users.
@@ -40,7 +40,7 @@ Approximately, two-thirds of the employees at GitHub work remotely.
 Majority of the coders community on GitHub is of Ruby, JavaScript, PHP and Python.
  
 
-Data Science Tutorials on GitHub
+## Data Science Tutorials on GitHub
 
 Now, if you are new to GitHub, you would be asking, where do tutorials come in on a platform meant for version control and sharing of codes. Well, because of its niche community, a lot of people have started creating resource repositories on GitHub.  Essentially, since the programmers spend a lot of time on GitHub, why not create list of resources they use regularly.
 
@@ -48,39 +48,39 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 
  
 
-1. Getting started with Data Science
+### 1. Getting started with Data Science
 
-Awesome Data Science: This is an awesome repository if you are to begin with Data Science. Here you’ll find every step that you need to take till the end of your journey.
+* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience.git): This is an awesome repository if you are to begin with Data Science. Here you’ll find every step that you need to take till the end of your journey.
 
-Data Science Resources: This is another repository of data science tutorials to help you conquer this skill set. You can free to choose any of these, both are equally good.
+* [Data Science Resources](): This is another repository of data science tutorials to help you conquer this skill set. You can free to choose any of these, both are equally good.
 
-Text Books in Data Science: If you like to read and refer to books, here is a compiled list of  best books on machine learning, data mining, statistics, data visualization etc.
-
- 
-
-2. Algorithms
-
-Data Science Algorithms: Here’s a comprehensive overview & explanation of algorithms such as Linear Regression, Logistic Regression, K-Mean Clustering, Random Forest. You’ll also find their worksheets for practice.
-
-Statistics and ML:  Here’s a list of tutorials to become efficient in your day to day programming. It covers python pandas, machine learning algorithms, statistics and data visualization
+* [Text Books in Data Science](): If you like to read and refer to books, here is a compiled list of  best books on machine learning, data mining, statistics, data visualization etc.
 
  
 
-3. Machine Learning
+### 2. Algorithms
 
-Scikit Learn: Scikit learn is a python library for machine learning. This repository has everything to offer to help you learn about machine learning in Python. ( Hint: Dig Deeper )
+* [Data Science Algorithms](): Here’s a comprehensive overview & explanation of algorithms such as Linear Regression, Logistic Regression, K-Mean Clustering, Random Forest. You’ll also find their worksheets for practice.
 
-Awesome Machine Learning: Here is an ultimate list of tutorials, resources, guides for machine learning, data analysis, natural language processing, data visualization in all the programming languages like Python, R, Java, Go, C++, Swift. Choose accordingly.
-
-Complete Machine Learning: Here’s a collection of  tutorials and examples for solving problems using machine learning. It consist of beginning to end steps of ML covering stages such as model evaluation, implementation of ML algorithms, data visualization etc.
-
-Parallel Machine Learning: This tutorial is on using scikit learn and ipython for parallel machine learning. Here you’ll find a 2 hours long video from Pycon 2013 with lecture notes and other useful resources.
-
-Machine Learning Courses: Here’s a list of Best Machine Learning Courses in the world.
+* [Statistics and ML]():  Here’s a list of tutorials to become efficient in your day to day programming. It covers python pandas, machine learning algorithms, statistics and data visualization
 
  
 
-4. Deep Learning
+### 3. Machine Learning
+
+* [Scikit Learn](): Scikit learn is a python library for machine learning. This repository has everything to offer to help you learn about machine learning in Python. ( Hint: Dig Deeper )
+
+* [Awesome Machine Learning](): Here is an ultimate list of tutorials, resources, guides for machine learning, data analysis, natural language processing, data visualization in all the programming languages like Python, R, Java, Go, C++, Swift. Choose accordingly.
+
+* [Complete Machine Learning](): Here’s a collection of  tutorials and examples for solving problems using machine learning. It consist of beginning to end steps of ML covering stages such as model evaluation, implementation of ML algorithms, data visualization etc.
+
+* [Parallel Machine Learning](): This tutorial is on using scikit learn and ipython for parallel machine learning. Here you’ll find a 2 hours long video from Pycon 2013 with lecture notes and other useful resources.
+
+* [Machine Learning Courses](): Here’s a list of Best Machine Learning Courses in the world.
+
+ 
+
+### 4. Deep Learning
 
 Caffe: Caffe is a deep learning framework made with expression, speed, and modularity in mind. This repository consist of installation instructions and other recommended tutorials to help you learn this framework properly.
 
@@ -96,7 +96,7 @@ Recurrent Neural Networks: Here’s a awesome list of dedicated resources for RN
 
  
 
-Top 30 Data Scientists to Follow on GitHub
+## Top 30 Data Scientists to Follow on GitHub
 
 Here’s is a compiled list of most influential data scientists on Github to follow. These data scientists are experts in their respective field which ranges from python, machine learning, neural nets, data visualization, deep learning, data science etc.
 
@@ -162,7 +162,7 @@ Here’s is a compiled list of most influential data scientists on Github to fol
 
  
 
-End Notes
+## End Notes
 
 GitHub is not just about coding and sharing codes. Its utility extends to connecting with experts and learn from them. The intent behind writing this article is to give you an overview of GitHub and its uses.
 
