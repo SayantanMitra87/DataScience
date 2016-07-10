@@ -20,13 +20,7 @@ Whenever I run out of inspiration, I look at these influencers and see what they
 You can follow these influencers to see which events are they attending, what are they reading and what are they working on. This can quickly become a wealth of knowledge in itself.
 To some extent, it also provides a human touch to these influencers. By just looking at their profiles, they might come across as some one out of the world. But, when you start folllowing them regularly, you tend to relate yourself with the influencers.
 If you haven’t tried this yet, it’s your turn now. I have compiled a list of some awesome Data Scientists on GitHub. In addition, you’ll also find the list of best data science tutorials available on GitHub. Specially for beginners, if don’t know about GitHub, here’s the quick introduction in simple words.
-
  
-
-github_logo
-
- 
-
  
 
 ### What is GitHub?
@@ -109,63 +103,63 @@ Here’s is a compiled list of most influential data scientists on Github to fol
 
 1. [Sebastian Raschka](https://github.com/rasbt)        (Machine Learning, Data Visualization)
 
-2. [Randy Olson](aaaaaa)                  (Python – Data Analysis, Matplotlib, Bokeh)
+2. [Randy Olson](https://github.com/rhiever)                  (Python – Data Analysis, Matplotlib, Bokeh)
 
-3. [Hilary Mason](aaaaaa)                (Chief Data Scientists at Bitly)
+3. [Hilary Mason](https://github.com/hmason)                (Chief Data Scientists at Bitly)
 
-4. [Mike Bostock](aaaaaa)                (D3, Data Visualisation)
+4. [Mike Bostock](https://github.com/mbostock)                (D3, Data Visualisation)
 
-5. [Prakhar Srivastav](aaaaaa)        (Python, Algorithms)
+5. [Prakhar Srivastav](https://github.com/prakhar1989)        (Python, Algorithms)
 
-6. [Andreas Mueller](aaaaaa)          (Machine Learning, Python)
+6. [Andreas Mueller](https://github.com/amueller)          (Machine Learning, Python)
 
-7. [Wes McKinney](aaaaaa)             (Author of Python for Data Analysis)
+7. [Wes McKinney](https://github.com/wesm)             (Author of Python for Data Analysis)
 
-8. [Jake Vanderplas](aaaaaa)          (Machine Learning, Data Visualization)
+8. [Jake Vanderplas](https://github.com/jakevdp)          (Machine Learning, Data Visualization)
 
-9. [Mathieu Blondel](aaaaaa)          (Machine Learning, Neural Networks)
+9. [Mathieu Blondel](https://github.com/mblondel)          (Machine Learning, Neural Networks)
 
-10. [Gael Varoquaux](aaaaaa)         (Machine Learning, Statistics, Python)
+10. [Gael Varoquaux](https://github.com/GaelVaroquaux)         (Machine Learning, Statistics, Python)
 
-11. [Oliver Grisel](aaaaaa)                (Machine Learning, Deep Learning)
+11. [Oliver Grisel](https://github.com/ogrisel)                (Machine Learning, Deep Learning)
 
-12. [Andrej](aaaaaa)                          (Deep Learning, Neural Network, SVM)
+12. [Andrej](https://github.com/karpathy)                          (Deep Learning, Neural Network, SVM)
 
-13. [Micheal Nielsen](aaaaaa)         (Neural Networks, Deep Learning)
+13. [Micheal Nielsen](https://github.com/mnielsen)         (Neural Networks, Deep Learning)
 
-14. [Heather Arthur](aaaaaa)          (Neural Network, Javascript)
+14. [Heather Arthur](https://github.com/harthur)          (Neural Network, Javascript)
 
-15. [Allen Downey](aaaaaa)             (Python, Algorithms)
+15. [Allen Downey](https://github.com/AllenDowney)             (Python, Algorithms)
 
-16. [Davies Liu](aaaaaa)                   (Apache Spark, Python)
+16. [Davies Liu](https://github.com/davies)                   (Apache Spark, Python)
 
-17. [Julia Evans](aaaaaa)                 (Machine Learning, Python)
+17. [Julia Evans](https://github.com/jvns)                 (Machine Learning, Python)
 
-18. [Jeff L](aaaaaa)                            (R Programming, Data Analysis)
+18. [Jeff L](https://github.com/jtleek)                            (R Programming, Data Analysis)
 
-19. [John Myles White](aaaaaa)     (Julia, Machine Learning)
+19. [John Myles White](https://github.com/johnmyleswhite)     (Julia, Machine Learning)
 
-20. [Thomas Wiecki](aaaaaa)         (Python, Bayesian Analysis)
+20. [Thomas Wiecki](https://github.com/twiecki)         (Python, Bayesian Analysis)
 
-21. [Brian Caffo](aaaaaa)                  (John Hopkins University)
+21. [Brian Caffo](https://github.com/bcaffo)                  (John Hopkins University)
 
-22. [Roger D Peng](aaaaaa)             (John Hopkins University)
+22. [Roger D Peng](https://github.com/rdpeng)             (John Hopkins University)
 
-23. [Stefan Karpinski](aaaaaa)       (Julia)
+23. [Stefan Karpinski](https://github.com/StefanKarpinski)       (Julia)
 
-24. [Pete Skomoroch](aaaaaa)        (Machine Learning, Big Data, Python)
+24. [Pete Skomoroch](https://github.com/datawrangling)        (Machine Learning, Big Data, Python)
 
-25. [Mike Dewar](aaaaaa)               (Python, D3, Javascript)
+25. [Mike Dewar](https://github.com/mikedewar)               (Python, D3, Javascript)
 
-26. [Hadley Wickham](aaaaaa)     (Statistics, Data Analysis, Data Visualisation)
+26. [Hadley Wickham](https://github.com/hadley)     (Statistics, Data Analysis, Data Visualisation)
 
-27. [Romain Francois](aaaaaa)      (R Programming)
+27. [Romain Francois](https://github.com/romainfrancois)      (R Programming)
 
-28. [Justin Palmer](aaaaaa)           (D3, Data Visualisation)
+28. [Justin Palmer](https://github.com/Caged)           (D3, Data Visualisation)
 
-29. [Jason Davies](aaaaaa)             (D3, Data Visualization)
+29. [Jason Davies](https://github.com/jasondavies)             (D3, Data Visualization)
 
-30. [Cameron Davidson Pilon](aaaaaa)      (Python, Algorithms)
+30. [Cameron Davidson Pilon](https://github.com/CamDavidsonPilon)      (Python, Algorithms)
 
  
 
