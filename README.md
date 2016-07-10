@@ -107,65 +107,65 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 
 Here’s is a compiled list of most influential data scientists on Github to follow. These data scientists are experts in their respective field which ranges from python, machine learning, neural nets, data visualization, deep learning, data science etc.
 
-1. Sebastian Raschka        (Machine Learning, Data Visualization)
+1. [Sebastian Raschka](https://github.com/rasbt)        (Machine Learning, Data Visualization)
 
-2. Randy Olson                  (Python – Data Analysis, Matplotlib, Bokeh)
+2. [Randy Olson](aaaaaa)                  (Python – Data Analysis, Matplotlib, Bokeh)
 
-3. Hilary Mason                (Chief Data Scientists at Bitly)
+3. [Hilary Mason](aaaaaa)                (Chief Data Scientists at Bitly)
 
-4. Mike Bostock                (D3, Data Visualisation)
+4. [Mike Bostock](aaaaaa)                (D3, Data Visualisation)
 
-5. Prakhar Srivastav        (Python, Algorithms)
+5. [Prakhar Srivastav](aaaaaa)        (Python, Algorithms)
 
-6. Andreas Mueller          (Machine Learning, Python)
+6. [Andreas Mueller](aaaaaa)          (Machine Learning, Python)
 
-7. Wes McKinney             (Author of Python for Data Analysis)
+7. [Wes McKinney](aaaaaa)             (Author of Python for Data Analysis)
 
-8. Jake Vanderplas          (Machine Learning, Data Visualization)
+8. [Jake Vanderplas](aaaaaa)          (Machine Learning, Data Visualization)
 
-9. Mathieu Blondel          (Machine Learning, Neural Networks)
+9. [Mathieu Blondel](aaaaaa)          (Machine Learning, Neural Networks)
 
-10. Gael Varoquaux         (Machine Learning, Statistics, Python)
+10. [Gael Varoquaux](aaaaaa)         (Machine Learning, Statistics, Python)
 
-11. Oliver Grisel                (Machine Learning, Deep Learning)
+11. [Oliver Grisel](aaaaaa)                (Machine Learning, Deep Learning)
 
-12. Andrej                          (Deep Learning, Neural Network, SVM)
+12. [Andrej](aaaaaa)                          (Deep Learning, Neural Network, SVM)
 
-13. Micheal Nielsen         (Neural Networks, Deep Learning)
+13. [Micheal Nielsen](aaaaaa)         (Neural Networks, Deep Learning)
 
-14. Heather Arthur          (Neural Network, Javascript)
+14. [Heather Arthur](aaaaaa)          (Neural Network, Javascript)
 
-15. Allen Downey             (Python, Algorithms)
+15. [Allen Downey](aaaaaa)             (Python, Algorithms)
 
-16. Davies Liu                   (Apache Spark, Python)
+16. [Davies Liu](aaaaaa)                   (Apache Spark, Python)
 
-17. Julia Evans                 (Machine Learning, Python)
+17. [Julia Evans](aaaaaa)                 (Machine Learning, Python)
 
-18. Jeff L                            (R Programming, Data Analysis)
+18. [Jeff L](aaaaaa)                            (R Programming, Data Analysis)
 
-19. John Myles White     (Julia, Machine Learning)
+19. [John Myles White](aaaaaa)     (Julia, Machine Learning)
 
-20. Thomas Wiecki         (Python, Bayesian Analysis)
+20. [Thomas Wiecki](aaaaaa)         (Python, Bayesian Analysis)
 
-21. Brian Caffo                  (John Hopkins University)
+21. [Brian Caffo](aaaaaa)                  (John Hopkins University)
 
-22. Roger D Peng             (John Hopkins University)
+22. [Roger D Peng](aaaaaa)             (John Hopkins University)
 
-23. Stefan Karpinski       (Julia)
+23. [Stefan Karpinski](aaaaaa)       (Julia)
 
-24. Pete Skomoroch        (Machine Learning, Big Data, Python)
+24. [Pete Skomoroch](aaaaaa)        (Machine Learning, Big Data, Python)
 
-25. Mike Dewar               (Python, D3, Javascript)
+25. [Mike Dewar](aaaaaa)               (Python, D3, Javascript)
 
-26. Hadley Wickham     (Statistics, Data Analysis, Data Visualisation)
+26. [Hadley Wickham](aaaaaa)     (Statistics, Data Analysis, Data Visualisation)
 
-27. Romain Francois      (R Programming)
+27. [Romain Francois](aaaaaa)      (R Programming)
 
-28. Justin Palmer           (D3, Data Visualisation)
+28. [Justin Palmer](aaaaaa)           (D3, Data Visualisation)
 
-29. Jason Davies             (D3, Data Visualization)
+29. [Jason Davies](aaaaaa)             (D3, Data Visualization)
 
-30. Cameron Davidson Pilon      (Python, Algorithms)
+30. [Cameron Davidson Pilon](aaaaaa)      (Python, Algorithms)
 
  
 
