@@ -57,6 +57,8 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 
 * [Text Books in Data Science:](https://github.com/chaconnewu/free-data-science-books.git) If you like to read and refer to books, here is a compiled list of  best books on machine learning, data mining, statistics, data visualization etc.
 
+* [+ Python Computing for Data Science:](http://profjsb.github.io/python-seminar/) An Undergraduate/Graduate Seminar Course at UC Berkeley (AY 250) maintained by profjsb.
+
  
 
 ### 2. Algorithms
@@ -94,7 +96,7 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 * [Recurrent Neural Networks:](https://github.com/kjw0612/awesome-rnn.git) Here’s a awesome list of dedicated resources for RNN. If you have longed to curate the resources for RNN, you’ve like to stop here and take a glance. This guide consists of codes, lectures, books and resources on multiple applications of RNN.
 
 
-* [Convolutional Neural Networks](http://colah.github.io/) By Christopher Olah - A wandering machine learning researcher, bouncing between groups. He wants to understand things clearly, and explain them well.
+* [+ Convolutional Neural Networks](http://colah.github.io/) By Christopher Olah - A wandering machine learning researcher, bouncing between groups. He wants to understand things clearly, and explain them well.
  
 
 ## Top 30 Data Scientists to Follow on GitHub
