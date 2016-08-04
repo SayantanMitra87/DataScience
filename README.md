@@ -96,9 +96,11 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 * [Recurrent Neural Networks:](https://github.com/kjw0612/awesome-rnn.git) Here’s a awesome list of dedicated resources for RNN. If you have longed to curate the resources for RNN, you’ve like to stop here and take a glance. This guide consists of codes, lectures, books and resources on multiple applications of RNN.
 
 
-* [+ Convolutional Neural Networks](http://colah.github.io/) By Christopher Olah - A wandering machine learning researcher, bouncing between groups. He wants to understand things clearly, and explain them well.
+* [+ Convolutional Neural Networks:](http://colah.github.io/) Here’s a complete tutorial on Neural Networks by Christopher Olah - A wandering machine learning researcher, bouncing between groups. He wants to understand things clearly, and explain them well.
  
 
+* [+ awesome-free-deep-learning-papers:](https://github.com/HFTrader/awesome-free-deep-learning-papers/blob/master/README.md) Here’s a awesome list of free resources on Deep Learning which includes deep learning courses, free books, lectures, papers and other useful free resources to follow.
+ 
 ## Top 30 Data Scientists to Follow on GitHub
 
 Here’s is a compiled list of most influential data scientists on Github to follow. These data scientists are experts in their respective field which ranges from python, machine learning, neural nets, data visualization, deep learning, data science etc.
