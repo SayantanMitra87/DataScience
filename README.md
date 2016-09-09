@@ -82,6 +82,7 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 * [Machine Learning Courses:](https://github.com/prakhar1989/awesome-courses.git) Here’s a list of Best Machine Learning Courses in the world.
 
  
+* [+ Data Exploration using Python:](https://www.analyticsvidhya.com/blog/2015/07/11-steps-perform-data-analysis-pandas-python/?utm_content=buffere84f1&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer) Here’s a cheatSheet: Data Exploration using Pandas in Python.
 
 ### 4. Deep Learning
 
