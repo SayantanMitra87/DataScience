@@ -102,7 +102,7 @@ Here’s a compiled list of tutorials on various topics in data science. These r
 
 * [+ awesome-free-deep-learning-papers:](https://github.com/HFTrader/awesome-free-deep-learning-papers/blob/master/README.md) Here’s a awesome list of free resources on Deep Learning which includes deep learning courses, free books, lectures, papers and other useful free resources to follow.
  
- * [+ Deep Learning Papers Reading Roadmap:](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md) If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?" Here is a reading roadmap of Deep Learning papers!
+* [+ Deep Learning Papers Reading Roadmap:](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md) If you are a newcomer to the Deep Learning area, the first question you may have is "Which paper should I start reading from?" Here is a reading roadmap of Deep Learning papers!
  
 ## Top 30 Data Scientists to Follow on GitHub
 
